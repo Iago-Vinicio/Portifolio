@@ -149,3 +149,25 @@ header > nav.navbar ,a.navbar-brand{
     transform: scale(1.07);
     transition: 0.5s;
 }
+
+/* Contatos */
+.cor_input {
+    background-color: rgba(26, 26, 26, 0.9); 
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 1rem;
+  }
+.cor_input::placeholder{
+    color: #ccc;
+}
+  
+.cor_input:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #ff6600;
+}
+
+#btn-contato {
+    background-color: rgb(72, 13, 201);
+    color: white;
+}
