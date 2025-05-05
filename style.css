@@ -133,7 +133,7 @@ header > nav.navbar ,a.navbar-brand{
 }
 .card {
     border-radius: 13px;
-    padding: 10px;
+    padding: 7px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 .card:hover {
