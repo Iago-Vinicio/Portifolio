@@ -1,15 +1,43 @@
-![image](https://github.com/user-attachments/assets/3dd72191-56fe-404a-ae33-e6437de4ef11)
-# 🚀 Meu Portfólio  
+![image](https://github.com/user-attachments/assets/b5c9ec6e-ef52-44ca-8008-c978be59e7f7)
 
-Bem-vindo ao meu portfólio! 🎨💻 Este repositório contém o código-fonte do meu site pessoal, onde apresento meus projetos, habilidades e experiências na área de desenvolvimento e design.  
-## 🔗 Acesse o site:
-https://portifolio-swart-alpha.vercel.app/
-## 🔗 Dá uma olhada na minha postagem no linkedin:
-https://www.linkedin.com/posts/iagovincio222_portfaejlio-desenvolvimentoweb-frontend-activity-7325184900112736256-z2Wz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmKyrsBmvU6xIUpGEsTzb4oDmpPJWz3U8U
-## 📌 Sobre  
-Este portfólio foi criado para demonstrar minha trajetória profissional e técnica, destacando projetos relevantes e tecnologias que utilizo.  
+# 🌐 **Portfólio - Iago Vincio**
 
-## 🛠️ Tecnologias Utilizadas  
-- **Frontend:** HTML, CSS, Bootstrap
-- **Estilização:** CSS puro / Bootstrap
+Bem-vindo ao meu portfólio pessoal!  
+Este site foi desenvolvido com **HTML**, **CSS** e **Bootstrap**, com o objetivo de apresentar minhas principais habilidades, projetos realizados e formas de contato profissional. Aqui você encontrará um resumo da minha trajetória na área de desenvolvimento web, com foco em entregar soluções criativas e funcionais.
 
+---
+
+## 🧠 **Sobre Mim**
+
+Sou um estudante de **Edificações** no Ensino Médio Técnico, atualmente me aprofundando em desenvolvimento **Front-End** pelo programa **Amontada Valley**. Acredito que a tecnologia pode transformar ideias em soluções reais, e estou em busca de oportunidades para crescer como desenvolvedor web.
+
+---
+
+## 🛠️ **Tecnologias Utilizadas**
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Bootstrap 5**
+- **Git & GitHub**
+
+---
+
+## 💼 **Seções do Portfólio**
+
+- **Início:** Apresentação com nome, formação e objetivo.
+- **Sobre Mim:** Um breve resumo sobre minha história e motivações.
+- **Habilidades:** Tecnologias que domino ou estou aprendendo.
+- **Projetos:** Cards com projetos pessoais desenvolvidos.
+- **Contato:** Formulário para que você possa entrar em contato comigo.
+
+---
+
+## 🚀 **Como visualizar**
+
+[🌐 Portfólio - Iago Vinicio](https://github.com/Iago-Vinicio/Portifolio)  
+Você pode clonar este repositório e abrir o `index.html` no seu navegador:
+
+```bash
+git clone https://github.com/Iago-Vinicio/Portifolio.git
+cd Portifolio
