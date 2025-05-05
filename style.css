@@ -171,3 +171,7 @@ header > nav.navbar ,a.navbar-brand{
     background-color: rgb(72, 13, 201);
     color: white;
 }
+
+#Rodape {
+    background-color: rgba(26, 26, 26, 0.9);
+}
