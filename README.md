@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/3dd72191-56fe-404a-ae33-e6437de4ef11)
 # 🚀 Meu Portfólio  
 
 Bem-vindo ao meu portfólio! 🎨💻 Este repositório contém o código-fonte do meu site pessoal, onde apresento meus projetos, habilidades e experiências na área de desenvolvimento e design.  
