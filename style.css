@@ -175,3 +175,38 @@ header > nav.navbar ,a.navbar-brand{
 #Rodape {
     background-color: rgba(26, 26, 26, 0.9);
 }
+
+/* responsividade */
+
+@media (max-width: 1400px) {
+    .gridSobreMim,.sectionContato,.h2-sobreMim,.containerTech{
+        padding: 0rem ;
+    }
+  }
+  @media (max-width: 900px) {
+
+    h1 { 
+        font-size: 42px; line-height: 62px;
+    }h2 
+    {
+         font-size: 35px; line-height: 52px; 
+    }
+    .h3-message {
+         font-size: 34px; line-height: 34px;
+    }
+    .gridSobreMim, .containerTech {
+        padding: 0 1.5rem;
+    }
+    .footer{
+        padding-left: 1.7rem;
+    }
+    .cardProjeto{
+        width: 391px;
+    }   .cardProjeto:hover{
+        
+        width: 391px;
+    }
+    p {
+        font-size: 20px;
+    }
+}
