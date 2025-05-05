@@ -49,3 +49,38 @@ p{
 #Apresentação, #Tecnologias,#Projetos,#Sobre-mim, #contato{
     background-color: black !important;
  }
+
+ hr{
+    width: 900px;
+    height: 3px;
+    background-color: rgb(117, 82, 193);
+    border: none;
+    margin: auto;
+}
+
+/* navbar  */
+header > nav.navbar ,a.navbar-brand{
+    font-size: 22px; 
+    font-weight: 600; 
+ }
+ header>nav.navbar>div.container-fluid>div.collapse>ul.navbar-nav>li.nav-item>a.nav-link:hover{
+    border-bottom:4px solid rgb(72, 13, 201);
+ }
+ h2{
+    color: rgb(72, 13, 201) !important;
+
+ }
+
+ /* Inicio  */
+
+ .name-apresentacao {
+    color: rgb(72, 13, 201);
+ }
+
+ 
+ div.div-apresentacao{
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: 700;
+    margin-top: 11rem;
+ }
