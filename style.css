@@ -84,3 +84,26 @@ header > nav.navbar ,a.navbar-brand{
     font-weight: 700;
     margin-top: 11rem;
  }
+
+ /* Sobre mim  */
+
+ div.containerSobreMim{
+    padding:180px;
+    height: 48.8rem;
+ }
+ 
+ .h3-sobreMim1{
+    font-size:50px;
+   line-height: 50px;
+ }
+ 
+ h3.h3-sobreMim2{
+    margin-bottom: 2rem;
+    margin-top: 6px;
+ }
+ 
+ div.containerSobreMim{
+    padding:180px;
+    height: 48.8rem;
+    color: whitesmoke;
+ }
