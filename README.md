@@ -32,14 +32,8 @@ Sou um estudante de **Edificações** no Ensino Médio Técnico, atualmente me a
 - **Contato:** Formulário para que você possa entrar em contato comigo.
 
 ---
+## 🔗 Acesse o site:
+https://portifolio-swart-alpha.vercel.app/
 
-## 🚀 **Como visualizar**
-[🌐 Portfólio - Iago Vinicio](https://portifolio-swart-alpha.vercel.app/)
-Você pode está verificando clicando no link ao lado.
-
-[🌐 Portfólio - Iago Vinicio](https://github.com/Iago-Vinicio/Portifolio)  
-Você pode clonar este repositório e abrir o `index.html` no seu navegador:
-
-```bash
-git clone https://github.com/Iago-Vinicio/Portifolio.git
-cd Portifolio
+## 🔗 Dá uma olhada na minha postagem no linkedin:
+https://www.linkedin.com/posts/iagovincio222_portfaejlio-desenvolvimentoweb-frontend-activity-7325184900112736256-z2Wz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmKyrsBmvU6xIUpGEsTzb4oDmpPJWz3U8U
