@@ -121,3 +121,31 @@ header > nav.navbar ,a.navbar-brand{
 .tech-card img {
     max-width: 50px;
 }
+
+/* Projetos */
+#btn-projeto {
+    background-color: rgb(72, 13, 201);
+    color: white;
+}
+
+.cor_card{
+    background-color: rgba(30, 30, 30, 0.95);
+}
+.card {
+    border-radius: 13px;
+    padding: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.6);
+}
+  
+.titulo_card {
+    color: rgb(72, 13, 201);
+    font-weight: bold;
+}
+.btn:hover {
+    transform: scale(1.07);
+    transition: 0.5s;
+}
