@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+/* Estilizaçoes gerais  */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Josefin Sans";
+    font-size: 16px; 
+    line-height: 18px;
+
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    color: white;
+    background-color:black;
+}
+section{
+    background-color:black;
+}
+h1 {
+   font-size: 87px; 
+   font-weight: 700;
+   line-height: 90px;
+   
+}
+h3,h2{   
+    font-weight: 700; 
+    line-height: 70px;
+    color: white;
+
+}
+h2{
+    font-size: 60px;
+   line-height: 70px;
+}
+h3{
+    font-size: 50px;
+}
+h4{
+    font-size: 50px;
+}
+p{
+   font-size: 18px;
+   line-height: 30px;
+   margin:0;
+}
+#Apresentação, #Tecnologias,#Projetos,#Sobre-mim, #contato{
+    background-color: black !important;
+ }
