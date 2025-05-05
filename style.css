@@ -126,6 +126,7 @@ header > nav.navbar ,a.navbar-brand{
 #btn-projeto {
     background-color: rgb(72, 13, 201);
     color: white;
+    margin-top: 7px;
 }
 
 .cor_card{
@@ -137,8 +138,8 @@ header > nav.navbar ,a.navbar-brand{
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 .card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 16px rgba(0,0,0,0.6);
+    transform: translateY(-7px);
+    box-shadow: 0 16px 19px rgba(0,0,0,0.6);
 }
   
 .titulo_card {
@@ -164,7 +165,7 @@ header > nav.navbar ,a.navbar-brand{
   
 .cor_input:focus {
     outline: none;
-    box-shadow: 0 0 0 2px #ff6600;
+    box-shadow: 0 0 0 3px #ff6600;
 }
 
 #btn-contato {
@@ -173,7 +174,7 @@ header > nav.navbar ,a.navbar-brand{
 }
 
 #Rodape {
-    background-color: rgba(26, 26, 26, 0.9);
+    background-color: rgba(26, 26, 26, 0.6);
 }
 
 /* responsividade */
