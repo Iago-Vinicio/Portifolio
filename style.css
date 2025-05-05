@@ -107,3 +107,17 @@ header > nav.navbar ,a.navbar-brand{
     height: 48.8rem;
     color: whitesmoke;
  }
+
+ /* Tecnologias */
+ .tech-card {
+    background-color:rgb(72, 13, 201);
+    border-radius: 10px;
+    padding: 20px;
+    transition: 0.3s;
+}
+.tech-card:hover {
+    transform: scale(1.07);
+}
+.tech-card img {
+    max-width: 50px;
+}
