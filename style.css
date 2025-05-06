@@ -15,6 +15,7 @@ body{
     font-weight: 400; 
     color: white;
     background-color:black;
+    overflow-x: hidden;
 }
 section{
     background-color:black;
@@ -51,12 +52,16 @@ p{
  }
 
  hr{
-    width: 900px;
     height: 3px;
     background-color: rgb(117, 82, 193);
     border: none;
     margin: auto;
-}
+ }
+
+ .hr-sb {
+    padding-right: 150px;
+    padding-left: 150px;
+ }
 
 /* navbar  */
 header > nav.navbar ,a.navbar-brand{
@@ -87,9 +92,10 @@ header > nav.navbar ,a.navbar-brand{
 
  /* Sobre mim  */
 
- div.containerSobreMim{
-    padding:180px;
-    height: 48.8rem;
+ #sobre-mim2 {
+    padding-right: 300px;
+    padding-left: 300px;
+
  }
  
  .h3-sobreMim1{
@@ -100,12 +106,6 @@ header > nav.navbar ,a.navbar-brand{
  h3.h3-sobreMim2{
     margin-bottom: 2rem;
     margin-top: 6px;
- }
- 
- div.containerSobreMim{
-    padding:180px;
-    height: 48.8rem;
-    color: whitesmoke;
  }
 
  /* Tecnologias */
@@ -179,35 +179,78 @@ header > nav.navbar ,a.navbar-brand{
 
 /* responsividade */
 
-@media (max-width: 1400px) { 
-    .gridSobreMim,.sectionContato,.h2-sobreMim,.containerTech{
-        padding: 0rem ;
+@media (max-width: 768px) {
+    .h1-apresentacao {
+      font-size: 40px;
+      line-height: 45px;
+    }
+  
+    .h3-sobreMim1,
+    .h3-sobreMim2 {
+      font-size: 30px;
+    }
+  
+    .containerSobreMim {
+      padding: 20px;
+      height: auto;
+    }
+  
+    .botoes button {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    .img-sobreMim {
+      width: 100%;
+      margin-top: 20px;
+    }
+  
+    .containerApresentacao {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .containerProjetos {
+      grid-template-columns: 1fr;
+      padding: 20px;
+    }
+  
+    footer {
+      flex-direction: column;
+      text-align: center;
+      gap: 10px;
     }
   }
-  @media (max-width: 900px) {
-
-    h1 { 
-        font-size: 42px; line-height: 62px;
-    }h2 
-    {
-         font-size: 35px; line-height: 52px; 
+  
+  @media (max-width: 992px) {
+    .containerProjetos {
+      grid-template-columns: repeat(2, 1fr);
     }
-    .h3-message {
-         font-size: 34px; line-height: 34px;
+  
+    .img-sobreMim {
+      max-width: 80%;
     }
-    .gridSobreMim, .containerTech {
-        padding: 0 1.5rem;
+  
+    .h1-apresentacao {
+      font-size: 50px;
+      line-height: 55px;
     }
-    .footer{
-        padding-left: 1.7rem;
+  
+    .h3-sobreMim1,
+    .h3-sobreMim2 {
+      font-size: 35px;
     }
-    .cardProjeto{
-        width: 391px;
-    }   .cardProjeto:hover{
-        
-        width: 391px;
-    }
-    p {
-        font-size: 20px;
-    }
-}
+    #sobre-mim2 {
+        padding-right: 80px;
+        padding-left: 80px;
+    
+     }
+  }
+  @media (max-width: 1200px) {
+    #sobre-mim2 {
+        padding-right: 80px;
+        padding-left: 80px;
+    
+     }
+  }
